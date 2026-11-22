@@ -1,0 +1,6 @@
+{
+  "name": "Family Bingo Hall",
+  "description": "Multi-display family Bingo caller console and player flashboard with RNG and ball machine modes, preset patterns, game playlists, and real-time serial ticket verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
